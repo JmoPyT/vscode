@@ -1,0 +1,16 @@
+// Placez vos paramètres dans ce fichier pour remplacer les paramètres par défaut
+{
+    "editor.fontSize": 13,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "editor.renderIndentGuides": true,
+    "files.trimTrailingWhitespace": true,
+    "files.eol": "\n",
+    "http.proxyStrictSSL": false,
+    "workbench.colorTheme": "Material Neutral - Classic",
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 0,
+    "workbench.activityBar.visible": true,
+    "editor.minimap.enabled": false,
+    "editor.scrollBeyondLastLine": false
+}
